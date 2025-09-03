@@ -19,16 +19,16 @@ Key competencies include:
 
 ## Featured Projects
 
-### Recipe-Finder  
+### [Recipe-Finder](https://github.com/Braddiiee/Recipe-Finder)  
 A command-line application written in Python that enables users to search for recipes based on available ingredients. This project integrates the Spoonacular API and demonstrates API consumption, data parsing, and user-centric design in a console environment.  
 
-### FocusBoost  
+### [FocusBoost](https://github.com/Braddiiee/FocusBoost)  
 A productivity application developed using Flask, HTML, CSS, and JavaScript. FocusBoost allows users to block distracting websites while tracking work intervals through a customizable timer. The project highlights front-end and back-end integration, session management, and user experience considerations.  
 
-### FanScape-Game-Tracker  
+### [FanScape-Game-Tracker](https://github.com/Braddiiee/FanScape-Game-Tracker)  
 A full-stack web application for sports enthusiasts, enabling profile management, team and game tracking, and personalized dashboards. This project demonstrates secure authentication, database integration, and dynamic interface design using TypeScript and Flask.  
 
-### WildScan-AI  
+### [WildScan-AI](https://github.com/Braddiiee/WildScan-AI)  
 An AI-driven web application for real-time animal identification. Users can capture or upload photos, and the application provides detailed species information including habitat, diet, and conservation status. This project illustrates practical application of AI models, image recognition, and responsive web design.  
 
 ---
@@ -37,7 +37,7 @@ An AI-driven web application for real-time animal identification. Users can capt
 
 Over the past year, I have maintained an active contribution history with over 500 commits, reflecting a consistent engagement in software development and continuous improvement. My repositories include a combination of personal projects, academic exercises, and contributions to open-source initiatives.  
 
-GitHub Contributions Graph  
+[GitHub Contributions Graph](https://github.com/Braddiiee)  
 
 ---
 

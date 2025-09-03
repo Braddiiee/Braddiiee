@@ -1,6 +1,9 @@
 # Makhaya Williams – Aspiring Software Engineer  
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-Completed-brightgreen) ![Quick Draw](https://img.shields.io/badge/Quick_Draw-Completed-brightgreen)
+
 
 I am an aspiring software engineer with a strong focus on artificial intelligence, web development, and applied mathematics. My primary objective is to leverage programming and technology to build innovative solutions that address real-world challenges. I am actively engaged in expanding my skill set, contributing to open-source projects, and developing applications that demonstrate both technical proficiency and practical utility.  
+
 
 ---
 
